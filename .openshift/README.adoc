@@ -1,0 +1,3 @@
+= OpenShift Resources
+
+This is where common, resusable openshift and kubernetes resource files go.
